@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.header{
+    padding:10px;
+    background-color: rgb(167, 227, 238);
+    color:white;
+    height: 10vh;
+    text-align: center;
+}
+
+.nav-container{
+    margin-top: 20px;
+}
+
+.header a{
+    padding: 5px 15px;
+    color: white;
+    background-color: rgb(87, 85, 85);
+    border-radius:10px;
+}
+
+
+
+.main-container{
+    height: 77vh;
+    background-color: #fff;
+}
+
+footer{
+    height: 10vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
